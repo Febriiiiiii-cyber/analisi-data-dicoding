@@ -11,7 +11,7 @@ conda activate main-ds
 ```
 numpy
 pandas
-matplotlib
+matplotlib.pyplot
 seaborn
 streamlit
 ```
